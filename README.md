@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @scor05
-- 👀 I’m interested in games and programming, aswell as to how they're made and the logic behind them. I also love having a challenge with programming because it helps me learn new ways to solve problems.
-- 🌱 I’m currently learning Java and Python, and will like to start with JavaScript next.
-- 📫 How to reach me: mainly through this site or my current e-mail address.
-- ⚡ Fun fact: I twisted my foot once during a soccer match and basically didn't think much of the pain until two days after when I went to the hospital and found out it was broken.
+Current CS student at UVG
+I have experience with Java, Python, C++, and a little bit of HTML
+If you wish to contact me please refer to the e-mail listed on my profile.
+Always looking for more to learn and projects to build!
+Open for requests.
 
 <!---
 scor05/scor05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
