@@ -1,5 +1,6 @@
 Current CS student at UVG
-I have experience with Java, Python, C++, and a little bit of HTML
+I have experience with Java, Python, C++, and a little bit of HTML.
+I am currently learning to amp both my skills in C++ and HTML, aswell as learning CSS and JavaScript
 If you wish to contact me please refer to the e-mail listed on my profile.
 Always looking for more to learn and projects to build!
 Open for requests.
